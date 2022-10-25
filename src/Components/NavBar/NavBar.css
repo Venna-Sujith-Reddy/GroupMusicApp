@@ -1,4 +1,6 @@
 .navbar{   
+    display: flex;
+    justify-content: space-around;
     margin : 0px;
     text-align: center;
     background-color: rgb(78, 1, 85);
